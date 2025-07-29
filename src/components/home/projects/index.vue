@@ -15,7 +15,7 @@
 					aria-hidden
 					class="w-full overflow-hidden bg-primary h-96 bg-center bg-no-repeat bg-cover flex-shrink-0"
 					:style="{
-						backgroundImage: `url(/src/assets/images/projects/${project.previewImage}.png)`,
+						backgroundImage: `url(/projects/${project.previewImage}.png)`,
 					}"
 				/>
 
