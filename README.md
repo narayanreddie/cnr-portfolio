@@ -3,7 +3,7 @@
 A single-page portfolio built with **Vue 3**, **Vite**, **TypeScript**, and **Tailwind CSS v4**.  
 Showcases projects, experience, and technologies in a clean, responsive layout.
 
-🔗 **Live:** https://your-domain.vercel.app  
+🔗 **Live:** https://cnr-portfolio.vercel.app  
 📁 **Source:** https://github.com/narayanreddie/cnr-portfolio.git
 
 ---
