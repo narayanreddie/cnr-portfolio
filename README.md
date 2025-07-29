@@ -1,5 +1,25 @@
-# Vue 3 + TypeScript + Vite
+# CNR – Vue 3 Portfolio
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A single-page portfolio built with **Vue 3**, **Vite**, **TypeScript**, and **Tailwind CSS v4**.  
+Showcases projects, experience, and technologies in a clean, responsive layout.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+🔗 **Live:** https://your-domain.vercel.app  
+📁 **Source:** https://github.com/narayanreddie/cnr-portfolio.git
+
+---
+
+## Features
+- ⚡️ **Vite** for instant dev & build  
+- 🎨 **Tailwind CSS v4** with dark-mode  
+- 📱 100 % responsive  
+- 🎯 SEO-ready meta tags  
+- 🛠️ Type-safe components
+
+---
+
+## Scripts
+```bash
+npm install       # install deps
+npm run dev       # local dev
+npm run build     # production build
+npm run preview   # preview build locally

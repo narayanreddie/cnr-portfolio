@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>CNR | Not Found</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <script>
+      /* Redirect every 404 to / so the Vue SPA loads */
+      sessionStorage.redirect = location.pathname + location.search;
+      location.replace('/');
+    </script>
+    <style>
+      body {
+        font-family: system-ui, sans-serif;
+        background: #111;
+        color: #fafafa;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Loading…</h1>
+  </body>
+</html>
