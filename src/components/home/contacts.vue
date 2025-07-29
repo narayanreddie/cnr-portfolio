@@ -8,7 +8,7 @@
       v-for="{ href, text } in [
         { href: 'https://www.linkedin.com/in/cinare/', text: 'LinkedIn' },
         { href: 'mailto:narayanreddieui@gmail.com', text: 'Email' },
-        { href: 'https://github.com/NARAYANAREDDY37', text: 'GitHub' },
+        { href: 'https://github.com/narayanreddie', text: 'GitHub' },
         { href: 'https://drive.google.com/file/d/1M7DwtTZhttl9Wzoll7_bunZoKmqH4TNq/view?usp=sharing', text: 'Resume' },
       ]"
       :key="text"
